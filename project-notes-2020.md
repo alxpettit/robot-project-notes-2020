@@ -2,7 +2,7 @@
 
 ## An overview
 
-![](/publish-project-notes-2020/assets/images/robot-schematic.png)
+![](/assets/images/robot-schematic.png)
 
 This robot has a fairly trivial design, but it is the most complex IOT-type circuit I've ever attempted, and involved a lot of modules that were new to me. To summarize -- I wanted a robot with:
 
